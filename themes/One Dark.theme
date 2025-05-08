@@ -13,7 +13,7 @@ fish_color_match 56b6c2 --underline
 fish_color_search_match --background=2e6399
 fish_color_operator c678dd
 fish_color_escape 56b6c2
-fish_color_cwd 98c379
+fish_color_cwd c678dd
 fish_color_autosuggestion 5c6370
 fish_color_valid_path 98c379 --underline
 fish_color_history_current 56b6c2
